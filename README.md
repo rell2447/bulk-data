@@ -1,5 +1,7 @@
 # bulk-data
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ef52c9724e5840e7854c1dc2a13b443f)](https://app.codacy.com/gh/rell2447/bulk-data?utm_source=github.com&utm_medium=referral&utm_content=rell2447/bulk-data&utm_campaign=Badge_Grade)
+
 GPO provides the capability to download XML in bulk for select collections from https://www.govinfo.gov/bulkdata. 
 
 Please see the User Guides within this repository for more information on how to make use of the XML data for the available collections.
